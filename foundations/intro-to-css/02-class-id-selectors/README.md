@@ -23,3 +23,7 @@ Quick tip: in VS Code, you can change which format colors are displayed in RGB, 
 - Do the odd numbered `p` elements share a class?
 - Do the even numbered `div` elements have unique IDs?
 - Does the Number 3 element have multiple classes?
+
+## What to learn
+- You can put two classes, just seperate between spaces
+- You can put id and class at the same time
